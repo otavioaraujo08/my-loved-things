@@ -81,6 +81,9 @@ const config = {
         "4xl": "2.441rem",
         "5xl": "3.052rem",
       },
+      fontFamily: {
+        notoSansKorean: ["Noto Sans KR", "sans - serif"],
+      },
     },
   },
   plugins: [require("tailwindcss-animate")],
